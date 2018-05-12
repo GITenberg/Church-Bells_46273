@@ -1,0 +1,27 @@
+_repo: Church-Bells_46273
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46273-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Walters, H. B. (Henry Beauchamp)
+    alias: Walters, Henry Beauchamp
+    birthdate: 1867
+    deathdate: 1944
+    gutenberg_agent_id: '43692'
+    url: http://www.gutenberg.org/2009/agents/43692
+description: ''
+gutenberg_issued: '2014-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46273'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bells'
+- !lcc 'M'
+title: Church Bells
+url: http://www.gutenberg.org/ebooks/46273
